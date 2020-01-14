@@ -2,7 +2,7 @@
  
 ### Which type of customers to target ?
 
-*This project was built by Aadithya Anandraj, Sayesha Aravapallui, Khyathi Balusu, George Chen and Derreck Hung. We were consultants for a start-up based out of Dallas which was founded in May 2019.*
+*This project was built by Aadithya Anandraj, Sayesha Aravapalli, Khyathi Balusu, George Chen and Derreck Hung. We were consultants for a start-up based out of Dallas which was founded in May 2019.*
 
 ### Business Problem : 
 
