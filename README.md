@@ -1,23 +1,20 @@
-## Google Analytics Project 1
+## Google Analytics Project 
  
-### Which type of customers to target ?
 
-*This project was built by Aadithya Anandraj, Sayesha Aravapalli, Khyathi Balusu, George Chen and Derreck Hung. We were consultants for a start-up based out of Dallas which was founded in May 2019.*
+### Introduction: 
 
-### Business Problem : 
-
-1.The goal of this project was to help the management understand where to allocate their resources to increase their current customer base. 
-2. Should they invest in google analytics 360 ?
+Companies big or small should always leverage the data they have about the customers to improve their experience, target new customers etc.
+The goal of this project was to help management of a solar energy based start-up to understand factors influencing sign-ups. 
 
 ### Data source : 
 
 There are two different datasets.
-1. There was a 4 month of data on google analytics, which we scraped. 
-2. Also we could get hold of data from a third-party resource.
+1. 4 months of data scrapped from google analytics - summary level data
+2. Individual level data from a third-party.
 
-### Toolkit : 
+### Technologies: 
 
-Python, Big Query 
+Python 3.7.3, Big Query 
 
 ### Algorithms :
 
@@ -33,8 +30,6 @@ Python, Big Query
 2.	Individual level data – This is the data from the third party. The data has features like – 
   ..*	Used logistic regression and random forest to understand feature importances
 
-### Insights and Recommendations :
+### Reccomendations :
 
-The company should go ahead and use the third party vendor to get the data as it is economical. The google analytics 360 is very expensive and is not beneficial for a start up
-
-### Future scope :
+The company should go ahead and use a third party vendor to get the data as it is economical. Recommended marketing channels which will boost number of sign-ups.
